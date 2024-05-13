@@ -5,6 +5,11 @@
 ### Middlegame
 ### Endgame
 
+## To get better at Chess
+- [ ] Study and practice tactics
+- [ ] Analyse all the games I play and learn from them
+- [ ] Learn strategic concepts
+
 # CHESS GAME WITH PYTHON
 ```
 class ChessBoard:
